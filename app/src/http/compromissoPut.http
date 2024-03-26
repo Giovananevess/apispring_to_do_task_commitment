@@ -1,0 +1,10 @@
+PUT https://8080-giovananeve-apispringto-rsyjlvlxesc.ws-us110.gitpod.io/compromissos/1
+Content-Type: application/json
+
+{
+    "descricao": "Teste Novo",
+    "dataInicio": "Teste de POST Novo",
+    "dataFim": "65555",
+    "horaInicio": "46546",
+    "horaFim": "1231"
+}
